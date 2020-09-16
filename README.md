@@ -1,5 +1,5 @@
 # endzy
-Endpoint monitor tool
+Endpoint monitor tool notifies new endpoints using telegram
 
 
 **Version 1.0**
@@ -9,10 +9,15 @@ Endpoint monitor tool
 
 **`$ chmod +x install ; ./install.sh`**
 
+***
+export TELEGRAM_API_TOKEN="apiToken"
+export TELEGRAM_CHAT_ID="chat_id"
+***
+
 
 ### Usage:
 
-**`$ ./run yahoo.com <slack-channel> <slack-token>`**
+**`$ ./run yahoo.com`**
 
 ![GitHub Logo](carbon.png)
 
