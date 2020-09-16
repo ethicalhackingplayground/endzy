@@ -39,7 +39,7 @@ export TELEGRAM_CHAT_ID="chat_id"
 ![GitHub Logo](carbon2.png)
 
 
-![GitHub Logo](updates.png)
+![GitHub Logo](updates.PNG)
 
 
 #### I hope you get a bounty with this technique.
