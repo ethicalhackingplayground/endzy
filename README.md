@@ -24,8 +24,7 @@ https://telegram.org/
 - Go to your bot click start and type hi
 - Then get the chant_id from https://api.telegram.org/bot<token>/getUpdates
 
-##### Then,
-
+##### Save this to your ~/.bashrc file with provided information
 
 ```
 export TELEGRAM_API_TOKEN="apiToken"
