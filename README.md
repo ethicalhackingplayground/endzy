@@ -36,7 +36,7 @@ export TELEGRAM_CHAT_ID="chat_id"
 
 **`$ ./run yahoo.com`**
 
-![GitHub Logo](carbon.png)
+![GitHub Logo](carbon2.png)
 
 
 #### I hope you get a bounty with this technique.
