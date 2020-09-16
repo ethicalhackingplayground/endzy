@@ -185,7 +185,7 @@ func getEndpoints(d string) []string {
 
 		// This is the final result which should look like
 		// /endpoint/blahblah/?param=FUZZ
-		endpoint := d + u.Path
+		endpoint := u.Path
 		endpoints = append(endpoints, endpoint)
 
 		return endpoints
