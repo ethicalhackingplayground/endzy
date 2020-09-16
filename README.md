@@ -14,6 +14,8 @@ Endpoint monitor tool
 
 **`$ ./run yahoo.com <slack-channel> <slack-token>`**
 
+![GitHub Logo](carbon.png)
+
 
 #### I hope you get a bounty with this technique.
 ****
