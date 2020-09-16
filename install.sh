@@ -1,3 +1,5 @@
+mkdir -p db
+
 git clone https://github.com/nahamsec/bbht.git
 cd bbht
 chmod +x install.sh
