@@ -11,6 +11,18 @@ Endpoint monitor tool notifies new endpoints using telegram
 
 ### Setup Telegram
 
+#### Download Telegram app
+
+https://telegram.org/
+
+- Type in @BotFather
+- Type into @BotFather /start
+- Then type in /newbot
+- Give the bot a name
+- Then give the bot a name ending with Bot
+- Save the token to a file
+
+##### Then,
 
 
 ```
