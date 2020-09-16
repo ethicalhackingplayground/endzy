@@ -21,6 +21,8 @@ https://telegram.org/
 - Give the bot a name
 - Then give the bot a name ending with Bot
 - Save the token to a file
+- Go to your bot click start and type hi
+- Then get the chant_id from https://api.telegram.org/bot<token>/getUpdates
 
 ##### Then,
 
