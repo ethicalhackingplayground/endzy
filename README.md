@@ -9,6 +9,10 @@ Endpoint monitor tool notifies new endpoints using telegram
 
 **`$ chmod +x install ; ./install.sh`**
 
+### Setup Telegram
+
+
+
 ```
 export TELEGRAM_API_TOKEN="apiToken"
 export TELEGRAM_CHAT_ID="chat_id"
